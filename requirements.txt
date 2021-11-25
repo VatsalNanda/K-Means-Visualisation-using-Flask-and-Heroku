@@ -1,0 +1,27 @@
+backports.entry-points-selectable==1.1.1
+distlib==0.3.3
+filelock==3.4.0
+gunicorn==20.1.0
+packaging @ file:///private/tmp/sip--packaging-20210619-77867-j1uolo/packaging-20.9
+platformdirs==2.4.0
+pyparsing==2.4.7
+PyQt3D==5.15.4
+PyQt5==5.15.4
+PyQt5-sip==12.9.0
+PyQt6==6.1.1
+PyQt6-3D==6.1.1
+PyQt6-Charts==6.1.1
+PyQt6-DataVisualization==6.1.1
+PyQt6-NetworkAuth==6.1.1
+PyQt6-sip==13.1.0
+PyQtChart==5.15.4
+PyQtDataVisualization==5.15.4
+PyQtNetworkAuth==5.15.4
+PyQtPurchasing==5.15.4
+PyQtWebEngine==5.15.4
+QScintilla==2.13.0
+sip==6.1.1
+six==1.16.0
+TBB==0.2
+toml==0.10.2
+virtualenv==20.10.0
